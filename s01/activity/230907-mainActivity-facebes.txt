@@ -1,1 +1,5 @@
 Hi, My name is Fritz William C. Acebes.
+
+I am currently pursuing my bachelor's degree in Computer Science at De La Salle University-Dasmariñas. I have recently finished my 
+internship at CAWIL.AI, a company that focuses on Computer Vision Artificial Intelligence. With the experience and knowledge that 
+I got from my internship, I am able to use it on my studies especially with our research which also uses on Computer Vision.
